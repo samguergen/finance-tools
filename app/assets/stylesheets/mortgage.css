@@ -58,7 +58,7 @@
 	font-size: 13px;
 }
 
-.pure-table-horizontal{
+.pure-table-horizontal {
 	margin-left: 2%;
 	margin-right: 2%;
 }
@@ -88,7 +88,9 @@
 	background-color: rgb(230, 244, 242);
 }
 
-.pure-table-horizontal tr:nth-child(3):hover > .down-type { background-color: yellow; } 
+.pure-table-horizontal tr:nth-child(3):hover > .down-type { 
+	background-color: yellow; 
+} 
 
 .down-type {
 	margin: 0px 15px 10px 10px;
@@ -151,7 +153,7 @@ canvas{
 	z-index: 1;
 }
 
-#progression-table{
+#progression-table {
 	margin-top: 480px;
 }
 
@@ -168,12 +170,12 @@ canvas{
     padding: 14px;
 }
 
-#prog-table{
+#prog-table {
 	width: 90%;
 	margin: 10% 2% 5% 2%;
 }
 
-#prog-table th{
+#prog-table th {
 	border: 1px solid black;
 }
 
