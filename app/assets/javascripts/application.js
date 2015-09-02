@@ -14,4 +14,7 @@
 //= require jquery_ujs
 //= require_tree .
 
-= require_tree ../../../vendor/assets/javascripts/.
+//= require angular
+//= require angular-rails-templates
+
+//= require_tree ../../../vendor/assets/javascripts/.
