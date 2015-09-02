@@ -1,4 +1,4 @@
-this.app = angular.module('app', ['templates','ui.slider','chart.js']);
+this.app = angular.module('app', ['ui.slider','chart.js']);
 
 this.app.config([
   '$httpProvider', function($httpProvider) {
