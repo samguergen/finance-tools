@@ -17,11 +17,10 @@
 //= require_tree .
 
 
-
 //= require angular-app/app
 //= require angular-app/controllers/mortgageCtrl
 
 //= require slider
 //= require Chart
 //= require angular-chart
-//= require mortgage
+
