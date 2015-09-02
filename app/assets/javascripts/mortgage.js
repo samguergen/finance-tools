@@ -176,17 +176,4 @@
 //  app.controller("MortgageCtrl", ['$scope', mortgageCtrl] );
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-//  
+ 
