@@ -1,6 +1,6 @@
 angular.module('app', ['templates', 'ngRoute', 'ui.slider','chart.js']).config(function ($routeProvider, $locationProvider) {
         $routeProvider
-            .when('/mortgage', {
+            .when('/', {
                 templateUrl: 'home.html',
                 controller: 'HomeCtrl'
             });
