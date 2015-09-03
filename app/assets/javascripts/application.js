@@ -15,10 +15,9 @@
 //= require jquery
 //= require jquery_ujs
 
-
-
 //= require angular-app/finance-app
 //= require angular-app/controllers/mortgageCtrl
+//= require angular-app/controllers/taxCtrl
 
 //= require slider
 //= require Chart
