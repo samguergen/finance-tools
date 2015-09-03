@@ -1,7 +1,7 @@
 angular.module("finance-app")
 .controller("taxCtrl", ['$scope', function($scope){
 
-    console.log('in da controller');
+    console.log('in da tax controller');
     $scope.formData = {};
     $scope.fica_cap = 117000;
     $scope.slide = 1;

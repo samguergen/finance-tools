@@ -1,7 +1,7 @@
 angular.module('finance-app').controller("mortgageCtrl", [
   '$scope', function($scope) {
 
-  	console.log('in da controller');
+  	console.log('in da mortgage controller');
     $scope.formData = {};
     $scope.years = [];
     $scope.num_of_payments = 360;
