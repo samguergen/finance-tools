@@ -1,4 +1,4 @@
-angular.module('app').controller("mortgageCtrl", [
+angular.module('finance-app').controller("mortgageCtrl", [
   '$scope', function($scope) {
 
   	console.log('in da controller');

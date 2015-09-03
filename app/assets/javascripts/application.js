@@ -14,10 +14,10 @@
 //= require angular/angular
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
 
 
-//= require angular-app/app
+
+//= require angular-app/finance-app
 //= require angular-app/controllers/mortgageCtrl
 
 //= require slider

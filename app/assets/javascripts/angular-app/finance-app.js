@@ -1,5 +1,5 @@
 
-this.app = angular.module('app', ['ui.slider','chart.js']);
+this.app = angular.module('finance-app', ['ui.slider','chart.js']);
 
 this.app.config([
   '$httpProvider', function($httpProvider) {
